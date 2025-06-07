@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // Set the base path for GitHub Pages - this should match your repository name
-  base: '/PluginFactory_privacypolicy',
+  base: '/Pluginfactory_privacypolicy',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
